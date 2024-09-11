@@ -12,4 +12,4 @@
 
 
 
-[comment]: # [![roadmap.sh](https://roadmap.sh/card/wide/66b5062ae70e3d5622c54b4b?variant=dark&roadmaps=python%2Csql)](https://roadmap.sh)
+<!---[![roadmap.sh](https://roadmap.sh/card/wide/66b5062ae70e3d5622c54b4b?variant=dark&roadmaps=python%2Csql)](https://roadmap.sh) --->
